@@ -25,7 +25,7 @@ This is a task projet from [tapaSript bangla](https://www.youtube.com/@tapascrip
 ![Component Hierarchy Diagram](/public/CHD.png)
 
 ## React Dev Tools Screenshot
-![React Dev Tools Screenshot](/public/conponent-structure.png)
+![React Dev Tools Screenshot](/public/component-structure.png)
 
 
 ##  live link for this project
