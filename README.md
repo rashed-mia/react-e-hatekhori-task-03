@@ -7,26 +7,27 @@ This is a task projet from [tapaSript bangla](https://www.youtube.com/@tapascrip
 - go to your terminal and clone the project by using the following link.
 - or you can download the project from the link.
 - go to the project directory by using the following command.
-cd task-03
+**cd task-03**
 - install all the dependencies by using the following command.
-npm install
+**npm install**
 - start the project by using the following command.
-npm run dev
+**npm run dev**
 
-[get source code](https://github.com/rashed-mia/task-03.git)
+[get source code](https://github.com/rashed-mia/react-e-hatekhori-task-03.git)
 
 ## The screenshot of the UX design diagram
-![UX Design Diagram](/ui.png)
+![UX Design Diagram](/public/ui.png)
 
 ## Component Breakdown diagram
-![Component Breakdown Diagram](/CarMart.png)
+![Component Breakdown Diagram](/public/CarMart.png)
 
 ## Component Hierarchy diagram
-![Component Hierarchy Diagram](/CHD.png)
+![Component Hierarchy Diagram](/public/CHD.png)
 
 ## React Dev Tools Screenshot
-![React Dev Tools Screenshot](/conponent-structure.png)
+![React Dev Tools Screenshot](/public/conponent-structure.png)
 
 
 ##  live link for this project
-[Live Link](https://rashed-mia/task-03-ten.vercel.app/)
+
+[live project](https://react-e-hatekhori-task-03.vercel.app/)
